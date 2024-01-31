@@ -1,0 +1,19 @@
+ 
+     header
+             {
+                  background-image: url(2.webp);
+                 color: white; 
+                 padding: 10px;
+                 text-align: center;
+                 
+             }
+img{
+    width: 200px;
+    height: 200px;
+}
+body{
+   
+  background-image: url(travel-airplane.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}

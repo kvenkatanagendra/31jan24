@@ -1,0 +1,22 @@
+img{
+        width: 100px;
+        height: 100px;
+    }
+    
+    header
+             {
+                  background-image: url(2.webp);
+                 color: snow; 
+                 padding: 10px;
+                 text-align: center;
+                 
+             }
+p{
+    text-align: center;
+}
+body{
+    margin: 5em;
+    background-color: aquamarine;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

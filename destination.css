@@ -1,0 +1,25 @@
+img{
+        width: 100px;
+        height: 100px;
+    }
+    
+     header
+             {
+                  background-image: url(2.webp);
+                 color: white; 
+                 padding: 10px;
+                 text-align: center;
+                 
+             }
+body{
+    background-image: url(fantasy_ship_2-wallpaper-1366x768.jpg);
+   background-position: bottom;
+    background-repeat: no-repeat;
+    
+}
+li{
+    color: red;
+}
+ h2{
+    color: red;
+}

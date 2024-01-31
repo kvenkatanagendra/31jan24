@@ -1,0 +1,13 @@
+ img{
+        width: 100px;
+        height: 100px;
+    }
+    
+      header
+             {
+                  background-image: url(2.webp);
+                 color: white; 
+                 padding: 10px;
+                 text-align: center;
+                 
+             }
